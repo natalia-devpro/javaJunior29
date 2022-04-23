@@ -5,10 +5,11 @@ public class Main {
         int count = StringUtils.countCharsFromText("wueuewuewetwibe", 'w');
         System.out.println(count);
 
-        String a = "dghsdfgksdf's sdflasdme0";
+        String a = "Введите текста";
         int b = StringUtils.countCharsFromText(a, 'f');
 
 
+        System.out.println();
         StringUtils.printReverse("qwerty");
         StringUtils.printReverse("asdfgh");
         StringUtils.printReverse("uyuyuyuyu!!!");
