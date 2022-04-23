@@ -5,7 +5,7 @@ public class Main {
         int count = StringUtils.countCharsFromText("wueuewuewetwibe", 'w');
         System.out.println(count);
 
-        String a = "Введите текста";
+        String a = "Ввеывкста";
         int b = StringUtils.countCharsFromText(a, 'f');
 
 
